@@ -1,0 +1,10 @@
+/Users/apple/Documents/cvstohtml/bin/Debug/netcoreapp2.0/cvstohtml.deps.json
+/Users/apple/Documents/cvstohtml/bin/Debug/netcoreapp2.0/cvstohtml.runtimeconfig.json
+/Users/apple/Documents/cvstohtml/bin/Debug/netcoreapp2.0/cvstohtml.runtimeconfig.dev.json
+/Users/apple/Documents/cvstohtml/bin/Debug/netcoreapp2.0/cvstohtml.dll
+/Users/apple/Documents/cvstohtml/bin/Debug/netcoreapp2.0/cvstohtml.pdb
+/Users/apple/Documents/cvstohtml/obj/Debug/netcoreapp2.0/cvstohtml.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/cvstohtml/obj/Debug/netcoreapp2.0/cvstohtml.AssemblyInfoInputs.cache
+/Users/apple/Documents/cvstohtml/obj/Debug/netcoreapp2.0/cvstohtml.AssemblyInfo.cs
+/Users/apple/Documents/cvstohtml/obj/Debug/netcoreapp2.0/cvstohtml.dll
+/Users/apple/Documents/cvstohtml/obj/Debug/netcoreapp2.0/cvstohtml.pdb
